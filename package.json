@@ -11,10 +11,7 @@
   "dependencies": {
     "bn.js": "4.11.8",
     "immutable": "3.8.2",
-    "ipfs-mini": "1.1.2",
-    "lodash": "4.17.10",
-    "lowdb": "1.0.0",
-    "path": "0.12.7"
+    "ipfs-mini": "1.1.2"
   },
   "devDependencies": {
     "tape": "4.9.1"
