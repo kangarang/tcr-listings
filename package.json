@@ -1,6 +1,6 @@
 {
   "name": "tcr-listings",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Library for TCR listings",
   "main": "lib/index.js",
   "scripts": {
