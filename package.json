@@ -1,6 +1,6 @@
 {
   "name": "tcr-listings",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Module for creating and updating TCR listings",
   "main": "lib/index.js",
   "scripts": {
