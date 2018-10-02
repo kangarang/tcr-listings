@@ -1,7 +1,7 @@
 {
   "name": "tcr-listings",
   "version": "0.1.0",
-  "description": "Library for TCR listings",
+  "description": "Module for creating and updating TCR listings",
   "main": "lib/index.js",
   "scripts": {
     "test": "tape test/**/*.js"
