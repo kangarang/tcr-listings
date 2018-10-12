@@ -65,7 +65,7 @@ const chalLogs = [
 test('getListings', async t => {
   // Get logs
   const tcrListings = new TCRListings(
-    '0xd09cc3bc67e4294c4a446d8e4a2934a921410ed7'
+    '0xD09cc3Bc67E4294c4A446d8e4a2934a921410eD7'
   )
   const listingsMap = await tcrListings.getListings(appLogs, chalLogs, {})
 
